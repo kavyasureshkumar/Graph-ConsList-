@@ -1,5 +1,3 @@
-package cons;
-
 @SuppressWarnings("unchecked")
 public class ListGraph<T> extends Conslist<T> {
 	T head;
