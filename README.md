@@ -1,4 +1,3 @@
-# Graph-ConsList
-A project that represents a graph using a nested conslist
+# Dijkstra's Algorithm (Graph-ConsList)
 
-It implements the dijksta's shortest path algorithm for the List-Graph
+A project that implements the Dijkstra's Shortest Path Algorithm using a List-Graph, wherein the graph is represented using a nested ConsList.
